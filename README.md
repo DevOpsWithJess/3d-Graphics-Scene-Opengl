@@ -1,6 +1,7 @@
 # CS 330 – Computational Graphics and Visualization  
 
 08/24/25
+
 Jessica Johnson
 
 This repo holds my CS 330 final project: a 3D makeup vanity scene built in OpenGL. I created objects like lip gloss, a compact, a nail polish bottle, and brushes using a mix of cylinders, cones, and spheres. This was my first time really seeing my code come alive visually, and it gave me a whole new appreciation for the graphics side of programming.  
