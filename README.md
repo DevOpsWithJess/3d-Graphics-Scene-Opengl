@@ -15,6 +15,9 @@ The scene represents a makeup vanity setup and includes objects such as a lip gl
 This project demonstrates how mathematical transformations and graphics pipelines can be used to create interactive 3D environments.
 
 ---
+## Scene Preview
+
+![3D Scene](scene_preview.png)
 
 ## Features
 
